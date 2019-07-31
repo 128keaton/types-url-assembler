@@ -1,0 +1,22 @@
+{
+  "name": "@128keaton/types-url-assembler",
+  "version": "0.0.2",
+  "description": "Types for node-url-assembler",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/128keaton/types-url-assembler.git"
+  },
+  "keywords": [
+    "url",
+    "assembler",
+    "types",
+    "angular"
+  ],
+  "author": "Keaton Burleson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/128keaton/types-url-assembler/issues"
+  },
+  "homepage": "https://github.com/128keaton/types-url-assembler#readme"
+}
