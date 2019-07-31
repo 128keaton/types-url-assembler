@@ -1,6 +1,6 @@
 {
   "name": "@128keaton/types-url-assembler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Types for node-url-assembler",
   "private": false,
   "repository": {
