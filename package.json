@@ -1,6 +1,6 @@
 {
   "name": "@128keaton/types-url-assembler",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Types for node-url-assembler",
   "private": false,
   "repository": {
@@ -16,7 +16,7 @@
   "author": "Keaton Burleson",
   "license": "MIT",
   "typeScriptVersion": "3.4",
-  "types": "index",
+  "types": "index.d.ts",
   "bugs": {
     "url": "https://github.com/128keaton/types-url-assembler/issues"
   },
